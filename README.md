@@ -1,3 +1,5 @@
+Works with Belnder Version 3.3.0+
+
 Snap the Origin of a Mesh to the selected element with just one Click!
 
 How it Works:
